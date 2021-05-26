@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### About me 👨‍💻
 
 - My name is Maike, I'm a 28 y.o. full stack developer from Brazil
-- LinkedIn: https://www.linkedin.com/in/maike-alame/
+- Linkedin: https://www.linkedin.com/in/maike-alame/
 - Working currently as Tech Lead remotly
 
 ### Skills 🔥
