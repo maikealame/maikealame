@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - My name is Maike, I'm a 28 y.o. full stack developer from Brazil
 - Linkedin: https://www.linkedin.com/in/maike-alame/
-- Working currently as Tech Lead remotly
+- Working currently as Tech Lead remotely
 
 ### Skills 🔥
 #### Languages
