@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 <img alt="Sass" src="https://img.shields.io/badge/GitLab-303030?style=for-the-badge&logo=gitlab&logoColor=white"/> <img alt="Sass" src="https://img.shields.io/badge/Bitbucket-0747A6?style=for-the-badge&logo=bitbucket&logoColor=white"/> <img alt="Sass" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 ### Github stats 📊
-![on3dd's github stats](https://github-readme-stats.vercel.app/api?username=maikealame&count_private=true&show_icons=true)
+![MaikeAlame's github stats](https://github-readme-stats.vercel.app/api?username=maikealame&count_private=true&show_icons=true)
